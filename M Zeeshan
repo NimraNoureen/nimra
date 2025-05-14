@@ -1,0 +1,7 @@
+Console.WriteLine("Roll No. : 24-ST-036");
+Console.WriteLine("Department : SoftwareEngineering Technology");
+Console.WriteLine("2nd-Semester Subjects : /n 1. English");
+Console.WriteLine("2. SDLC");
+Console.WriteLine("3. SCM");
+Console.WriteLine("4. THQ");
+Console.WriteLine("5. Stats");
